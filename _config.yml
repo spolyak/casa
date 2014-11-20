@@ -1,0 +1,15 @@
+# Site settings
+short_title: CASA
+title: Community App Sharing Architecture
+tagline: Discover. Share. Propagate.
+website: http://imsglobal.org
+email:
+description: > # this means to ignore newlines until "baseurl:"
+  ...
+baseurl: "http://imsglobal.github.io/casa" # the subpath of your site, e.g. /blog/
+url: "http://imsglobal.github.io/casa" # the base hostname & protocol for your site
+twitter_username: learningimpact
+github_username:  imsglobal
+
+# Build settings
+markdown: kramdown
