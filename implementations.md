@@ -7,11 +7,12 @@ permalink: /implementations/
 Full implementations:
 
 * [CASA on Rails](casa-on-rails)
-* [Reference Implementation](reference) ✝
+* [CASA Node.js](casa-nodejs)
 
 Partial implementations:
 
 * [EduAppCenter](edu_app_center) (publisher)
 
-✝ *denotes an implementation that is not up to date with the latest version of the protocol*
+Out of date implementations:
 
+* [Original Reference Implementation](reference)
